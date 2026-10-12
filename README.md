@@ -6,6 +6,8 @@ Dies ist eine Übersicht meines methodischen Ansatzes und zeigt die Gedankengän
 # Menu Concept 1.0
 Die erste Idee des Menüs.
 
+<img width="442" height="264" alt="Screenshot 2026-10-12 121706" src="https://github.com/user-attachments/assets/1dd0a127-6e48-4cd8-b27b-d0879190f8c9" />
+
 Schwachstellen:
 1. Die Menüpunkte sind weit voneinander entfernt. Das Auge braucht zu lange zum Suchen und die Navigation dauert unnötig lange.
 2. Die Schriftart ist schwer lesbar.
@@ -14,6 +16,8 @@ Fazit: Das Menü muss so gestaltet werden, dass der User das Menü deutlich schn
 
 # Menu Conept 1.1
 
+<img width="240" height="306" alt="Screenshot 2026-10-12 121720" src="https://github.com/user-attachments/assets/a6145057-1941-4a5f-b6df-e812892ce96f" />
+
 Neues Konzept und Optimierungen:
 1. Die Buttons sind nun untereinander angeordnet. Dies ermöglicht eine angenehmere Tastatur-/Gamepad- Steuerung (hoch/runter) und fokussiert den Blick.
 2. Einstellungen wie „Sprache“ und „Steuerung“ wurden im Menüpunkt „Settings“ zusammengefasst, um das Menü übersichtlicher zu gestalten.
@@ -21,6 +25,8 @@ Neues Konzept und Optimierungen:
 4. Einsatz einer lesbaren Schriftart, die den visuellen Stil des Spiels beibehält.
 
 # Menu Concept 1.2 (final)
+
+<img width="811" height="1060" alt="menu now" src="https://github.com/user-attachments/assets/c46ae617-f9b9-469b-b694-e41b1e472f77" />
 
 Finale Version:
 1. Einsatz von Icons: Jeder Menüpunkt besitzt ein passendes, leicht verständliches Icon. Das hilft Spielern, Inhalte visuell schnell zu erfassen.
@@ -31,6 +37,8 @@ Finale Version:
    + Steuerung: Am Anfang eines Spiels schauen Spieler mehrfach in die Steuerung, um Tastenbelegung zu überprüfen. Ein direkter Zugriff spart hier unnötige Unterbrechungen.
   
 # Spiellogik & Event-Steuerung
+
+<img width="744" height="246" alt="Screenshot 2026-10-12 121734" src="https://github.com/user-attachments/assets/7affc9ec-9619-4be0-befb-45dda84a45b6" />
 
 1. Interaktions-Zähler:
 Nutzung von Variablen als Zähler, um Spielerinteraktionen mit der Spielwelt zu verfolgen.
@@ -47,6 +55,8 @@ Ergebnis: Sämtliche Dialoge und Textelemente passen sich anhand des gewählten 
 automatisch an die bevorzugte Sprache des Nutzers an.
 
 # Zustands-Steuerung via Booleans
+
+<img width="918" height="118" alt="Screenshot 2026-10-12 121751" src="https://github.com/user-attachments/assets/c1714a14-0261-44b5-811b-43404fba465e" />
 
 1. Nutzung von Schaltern (Booleans : True / False, in der Engine 'Ein/Aus') zur Ereignis-Steuerung. Wenn beispielsweise ein Schlüssel (trash key) aktiv ist, werden neue
 Interaktionen freigeschaltet und Menü-Steuerungen angepasst (Menu Control = AUS →
