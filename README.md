@@ -59,11 +59,10 @@ automatisch an die bevorzugte Sprache des Nutzers an.
 
 <img width="918" height="118" alt="Screenshot 2026-10-12 121751" src="https://github.com/user-attachments/assets/c1714a14-0261-44b5-811b-43404fba465e" />
 
-1. Nutzung von Schaltern (Booleans : True / False, in der Engine 'Ein/Aus') zur Ereignis-Steuerung. Wenn beispielsweise ein Schlüssel (trash key) aktiv ist, werden neue
-Interaktionen freigeschaltet und Menü-Steuerungen angepasst (Menu Control = AUS →
+1. Nutzung von Schaltern (Booleans : True / False, in der Engine 'Ein/Aus') zur Ereignis-Steuerung.
+Wenn beispielsweise ein Schlüssel (trash key) aktiv ist, werden neue Interaktionen freigeschaltet und Menü-Steuerungen angepasst (Menu Control = AUS →
 Menüaufruf wird blockiert, wenn dieses Event aktiv ist)
-2. Einsatz von Community-Plugins, um Standard-Funktionen der Engine gezielt zu erweitern
-und anzupassen.
+3. Einsatz von Community-Plugins, um Standard-Funktionen der Engine gezielt zu erweitern und anzupassen.
 
 # Projekt-Evolution: Von Spiel 1 zu Spiel 2
 Anstatt die Spiele nur einzeln vorzustellen, zeigt dieser Vergleich direkt, wie sich meine Fähigkeiten
