@@ -31,8 +31,9 @@ Neues Konzept und Optimierungen:
 Finale Version:
 1. Einsatz von Icons: Jeder Menüpunkt besitzt ein passendes, leicht verständliches Icon. Das hilft Spielern, Inhalte visuell schnell zu erfassen.
 2. Vertikale Anordnung: Die Buttons sind übersichtlich in einer vertikalen Liste angeordnet, was eine natürliche und flüssige Blickführung garantiert.
-3. Charakter-Integration: Das kleine Charakter-Bild oberhalb des Menükastens ist visuell ansprechend, ohne dabei von den funktionalen Elementen abzulenken.
-4. Reduzierung von Klicks: Wichtige Aktionen sind direkt erreichbar, was den Weg zum gewünschten Ziel verkürzt. Load Save File, Language und Controls sollen nicht tief in den allgemeinen Einstellungen zu verschwinden.
+3. Font: Für eine bessere Lesbarkeit wurde die Schriftart komplett ausgetauscht.
+4. Charakter-Integration: Das kleine Charakter-Bild oberhalb des Menükastens ist visuell ansprechend, ohne dabei von den funktionalen Elementen abzulenken.
+5. Reduzierung von Klicks: Wichtige Aktionen sind direkt erreichbar, was den Weg zum gewünschten Ziel verkürzt. Load Save File, Language und Controls sollen nicht tief in den allgemeinen Einstellungen verschwinden.
    + Barrierefreiheit: Wenn der Spieler versehentlich die falsche Sprache auswählt, dann ist es extrem schwierig durch ein verschachteltes Settings-Menü zu navigieren.
    + Steuerung: Am Anfang eines Spiels schauen Spieler mehrfach in die Steuerung, um Tastenbelegung zu überprüfen. Ein direkter Zugriff spart hier unnötige Unterbrechungen.
   
