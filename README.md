@@ -42,7 +42,7 @@ Finale Version:
 <img width="744" height="246" alt="Screenshot 2026-10-12 121734" src="https://github.com/user-attachments/assets/7affc9ec-9619-4be0-befb-45dda84a45b6" />
 
 1. Interaktions-Zähler:
-Nutzung von Variablen als Zähler, um Spielerinteraktionen mit der Spielwelt zu verfolgen (beim Interagieren mit dem NPC erhöht sich die Variable). Ergebnis: Das Event reagiert dynamisch auf das Verhalten des Spielers und sperrt weitere Aktionen (hier: Maximalanzahl an Bestellungen erreicht).
+Nutzung von Variablen als Zähler, um Spielerinteraktionen mit der Spielwelt zu verfolgen (beim Interagieren mit dem NPC erhöht sich die Variable). Das Event reagiert dynamisch auf das Verhalten des Spielers und sperrt weitere Aktionen (hier: Maximalanzahl an Bestellungen erreicht).
 
 2. Lokalisierung: Globale Zustandsvariable zur dynamischen Sprachumschaltung:
    
@@ -50,7 +50,7 @@ Nutzung von Variablen als Zähler, um Spielerinteraktionen mit der Spielwelt zu 
 
 • Language = 2 → Deutsch
 
-Ergebnis: Sämtliche Dialoge und Textelemente passen sich anhand des gewählten Werts
+Sämtliche Dialoge und Textelemente passen sich anhand des gewählten Werts
 automatisch an die bevorzugte Sprache des Nutzers an.
 
 # Zustands-Steuerung via Booleans
@@ -59,7 +59,7 @@ automatisch an die bevorzugte Sprache des Nutzers an.
 
 1. Nutzung von Schaltern (Booleans : True / False, in der Engine 'Ein/Aus') zur Ereignis-Steuerung.
 Wenn beispielsweise ein Schlüssel (trash key) aktiv ist, werden neue Interaktionen freigeschaltet und Menü-Steuerungen angepasst (Menu Control = AUS →
-Menüaufruf wird blockiert, wenn dieses Event aktiv ist)
+Menüaufruf wird blockiert, wenn dieses Event aktiv ist).
 3. Einsatz von Community-Plugins, um Standard-Funktionen der Engine gezielt zu erweitern und anzupassen.
 
 # Projekt-Evolution: Von Spiel 1 zu Spiel 2
