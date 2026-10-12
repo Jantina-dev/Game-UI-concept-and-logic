@@ -43,11 +43,13 @@ Finale Version:
 
 1. Interaktions-Zähler:
 Nutzung von Variablen als Zähler, um Spielerinteraktionen mit der Spielwelt zu verfolgen (beim Interagieren mit dem NPC erhöht sich die Variable).
+
 Ergebnis: Das Event reagiert dynamisch auf das Verhalten des Spielers und sperrt weitere Aktionen (hier: Maximalanzahl an Bestellungen erreicht).
 
 2. Lokalisierung: Globale Zustandsvariable zur dynamischen Sprachumschaltung:
    
 • Language = 1 → Englisch
+
 • Language = 2 → Deutsch
 
 Ergebnis: Sämtliche Dialoge und Textelemente passen sich anhand des gewählten Werts
