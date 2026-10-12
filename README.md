@@ -42,9 +42,7 @@ Finale Version:
 <img width="744" height="246" alt="Screenshot 2026-10-12 121734" src="https://github.com/user-attachments/assets/7affc9ec-9619-4be0-befb-45dda84a45b6" />
 
 1. Interaktions-Zähler:
-Nutzung von Variablen als Zähler, um Spielerinteraktionen mit der Spielwelt zu verfolgen (beim Interagieren mit dem NPC erhöht sich die Variable).
-
-Ergebnis: Das Event reagiert dynamisch auf das Verhalten des Spielers und sperrt weitere Aktionen (hier: Maximalanzahl an Bestellungen erreicht).
+Nutzung von Variablen als Zähler, um Spielerinteraktionen mit der Spielwelt zu verfolgen (beim Interagieren mit dem NPC erhöht sich die Variable). Ergebnis: Das Event reagiert dynamisch auf das Verhalten des Spielers und sperrt weitere Aktionen (hier: Maximalanzahl an Bestellungen erreicht).
 
 2. Lokalisierung: Globale Zustandsvariable zur dynamischen Sprachumschaltung:
    
