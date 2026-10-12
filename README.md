@@ -63,3 +63,12 @@ Interaktionen freigeschaltet und Menü-Steuerungen angepasst (Menu Control = AUS
 Menüaufruf wird blockiert, wenn dieses Event aktiv ist)
 2. Einsatz von Community-Plugins, um Standard-Funktionen der Engine gezielt zu erweitern
 und anzupassen.
+
+# Projekt-Evolution: Von Spiel 1 zu Spiel 2
+Anstatt die Spiele nur einzeln vorzustellen, zeigt dieser Vergleich direkt, wie sich meine Fähigkeiten
+weiterentwickelt haben.
+
+<img width="751" height="500" alt="Screenshot 2026-10-12 131925" src="https://github.com/user-attachments/assets/6700a7ac-06df-4adc-a611-2c6660608dbc" />
+
+Am Ende zählt für mich der Fortschritt. Mehr Routine bedeutet für mich mehr Mut zu neuen Ideen
+und spürbar mehr Vielfalt im Gameplay.
