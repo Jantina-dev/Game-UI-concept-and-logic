@@ -26,7 +26,7 @@ Neues Konzept und Optimierungen:
 
 # Menu Concept 1.2 (final)
 
-<img width="811" height="1060" alt="menu now" src="https://github.com/user-attachments/assets/c46ae617-f9b9-469b-b694-e41b1e472f77" />
+<img width="688" height="1062" alt="Illustration" src="https://github.com/user-attachments/assets/01c17dfa-3e9a-4712-ab4c-8a94cd36a575" />
 
 Finale Version:
 1. Einsatz von Icons: Jeder Menüpunkt besitzt ein passendes, leicht verständliches Icon. Das hilft Spielern, Inhalte visuell schnell zu erfassen.
