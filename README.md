@@ -14,7 +14,7 @@ Schwachstellen:
 
 Fazit: Das Menü muss so gestaltet werden, dass der User das Menü deutlich schneller und intuitiver bedienen kann.
 
-# Menu Conept 1.1
+# Menu Concept 1.1
 
 <img width="240" height="306" alt="Screenshot 2026-10-12 121720" src="https://github.com/user-attachments/assets/a6145057-1941-4a5f-b6df-e812892ce96f" />
 
